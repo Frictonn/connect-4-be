@@ -1,0 +1,13 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+
+# Files that might appear on external disk
+.Trashes
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Pycharm
+.idea/
